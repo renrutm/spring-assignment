@@ -5,7 +5,7 @@
     <parent>
         <artifactId>spring-assignment</artifactId>
         <groupId>com.mkturner.maven</groupId>
-        <version>${revision}</version>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>com.mkturner.maven</groupId>
             <artifactId>web-module</artifactId>
-            <version>${project.version}</version>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

@@ -5,12 +5,13 @@
     <parent>
         <artifactId>spring-assignment</artifactId>
         <groupId>com.mkturner.maven</groupId>
-        <version>${revision}</version>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>web-module</artifactId>
     <packaging>jar</packaging>
+    <version>0.0.1-SNAPSHOT</version>
 
     <properties>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>

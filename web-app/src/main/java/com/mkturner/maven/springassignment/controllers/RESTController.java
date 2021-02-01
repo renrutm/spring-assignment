@@ -19,6 +19,7 @@ public class RESTController {
         shippingAddress.setCity("city");
         shippingAddress.setState("state");
         shippingAddress.setZip("zip");
+        shippingAddress.setCountry("country");
 
         returnVal.put("ShippingAddress", shippingAddress);
 
